@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: neu;
+  }
+  html,
+  body {
+    height: 100%;
+    width: 100%;
+  }
+  body{
+    padding: 50px;
+  }
+  #hero1{
+    height: 30vw;
+    width: 30vw;
+    background-color: orangered;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    filter:blur(20px) ;
+    -webkit-filter:blur(20px) ;
+    position: absolute;
+}
+  #hero2{
+    position: absolute;
+    height: 30vw;
+    width: 30vw;
+    background-color: orangered;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    filter:blur(20px) ;
+    -webkit-filter:blur(20px) ;
+}
+@keyframes anime{
+    from{
+        
+    }
+}
